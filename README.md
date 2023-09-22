@@ -1,2 +1,3 @@
 # PUC-SPRINT-III
 Qualidade do Ar nos Municípios de São Paulo - período 2015 - 2021
+O trabalho consiste em analisar as medições das concentrações de poluentes realizadas por 87 estações meteorológicas distintas, distribuídas em diversas localidades no estado de São Paulo, no período de 2015 a 2021, possibilitando observar a evolução de alguns dos mais importantes poluentes que interferem de forma significativa nas mudanças climáticas e no desenvolvimento de morbidades. Assim foi utilizada uma base de dados com mais de 10 milhões de registros com as medições de 9 poluentes: MP10, MP2.5, O3, NO2, CO, SO2, NO, FMC e PTS, onde dentre estes foram selecionados MP10, MP2.5 e O3. 
